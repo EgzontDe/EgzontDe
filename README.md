@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning how to stop my dog from walking on my keyboard while coding.
 - 💞️ I’m looking to collaborate on projects that can be explained with memes.
 - 📫 How to reach me: Just send a carrier pigeon with a USB stick.
-- 😄 Pronouns: Code/Compiler
-- ⚡ Fun fact: I once fixed a bug at 3 AM and still don’t remember how I did it.
